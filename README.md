@@ -1,3 +1,12 @@
+# What is this?
+A batch program that heavily automates the process of exporting character animation sprites from a single Aseprite file.
+
+When spriting in Aseprite, it's a common practice to separate animations for a character into separate tags.
+When you export the animations, Aseprite lets you export each animation tag separately, and even lets you export each frame within that tag as its own image file. However, you'll still have to name the animation files yourself.
+This isn't too bad in and of itself, but when you have dozens upon dozens of different animation tags with many different frames, and you have to manually export each animation to a specific directory, the task of repeatedly exporting and naming each file gets extremely tedious, especially when you want to make changes to the sprites later.
+
+This exists to heavily automate that process, so that you can just stay focused on making the actual sprites. 
+
 # Usage
 
 ## Important things to verify before using
