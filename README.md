@@ -17,7 +17,7 @@ _____
 ![](https://i.imgur.com/rd7setc.png)
 
 4. Run the batch file and enter the names it asks you for.
-![](https://i.imgur.com/IhsWaLc.png)
+![](https://i.imgur.com/bYnJByb.png)
 
 5. The frames of each of your animations should appear split into their own respective frames and named by their tag and tag frame!
 ![](https://i.imgur.com/fxpDjao.png)
