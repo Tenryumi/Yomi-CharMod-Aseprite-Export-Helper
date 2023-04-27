@@ -64,6 +64,6 @@ Rem Export using the character mod folder name to determine the path
 : 'export'
     echo.
     echo ^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-
-    %ASEPRITE% -p %asefile%.aseprite --ignore-layer "Sample" --filename-format "%exportfolder:"=%/{title}-{tag}-{tagframe}.{extension}" --save-as "%charname%.png"
+    %ASEPRITE% -b %asefile%.aseprite --ignore-layer "Sample" --filename-format "%exportfolder:"=%/{title}-{tag}-{tagframe}.{extension}" --save-as "%charname%.png"
     echo Export complete^!
     @echo on
