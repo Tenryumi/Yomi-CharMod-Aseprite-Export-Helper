@@ -15,7 +15,7 @@ This exists to heavily automate that process, so that you can just stay focused 
 
 - Make sure that all your character's animations in your .aseprite file are split into separate tags. The batch file won't work otherwise!
 ![](https://i.imgur.com/JRXsbHt.png)
-	- **Note**: If you are using a guideline sprite, name its layer "Sample" so that the exporter ignores it.
+	- **Note**: If you are using a guideline sprite, name its layer "Sample" so that the exporter ignores it. Toggling this layer off works just as fine, too.
 		![](https://i.imgur.com/FhlM937.png)
 
 - Make sure that the name of your extrated Yomi project folder matches `YOMIFOLDERNAME` in the .bat file. If not, just change the value in it to match it and it should work just fine!
